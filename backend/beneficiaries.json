@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "fullName": "Hani Abdi Ali",
+    "mobile": "612345678",
+    "targetGroup": "Household"
+  },
+  {
+    "id": 2,
+    "fullName": "Meymun Dirie",
+    "mobile": "772345678",
+    "targetGroup": "Teacher"
+  },
+  {
+    "id": 3,
+    "fullName": "Aisha Ilmi",
+    "mobile": "616328920",
+    "targetGroup": "Teacher"
+  },
+  {
+    "id": 4,
+    "fullName": "Abdimalik Osman",
+    "mobile": "623783920",
+    "targetGroup": "Principal"
+  },
+  {
+    "id": 5,
+    "fullName": "Abdalla Ku Dhaqsade",
+    "mobile": "906668829",
+    "targetGroup": "Principal"
+  },
+  {
+    "id": 6,
+    "fullName": "Amira Anwar Mohamed",
+    "mobile": "908166688",
+    "targetGroup": "FHS"
+  },
+  {
+    "id": 7,
+    "fullName": "Anas Qaasim Mohamed",
+    "mobile": "612701436",
+    "targetGroup": "FHW"
+  },
+  {
+    "id": 8,
+    "fullName": "Mohmed Ali Omar",
+    "mobile": "905638232",
+    "targetGroup": "Principal"
+  },
+  {
+    "id": 9,
+    "fullName": "Muna Mohamed Yaasir" ,
+    "mobile": "776127013",
+    "targetGroup": "FHW"
+  }
+
+]
+
